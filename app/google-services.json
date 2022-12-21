@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "73600380581",
+    "project_id": "elizavetaregister",
+    "storage_bucket": "elizavetaregister.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73600380581:android:bd8017bb6056238d53674c",
+        "android_client_info": {
+          "package_name": "com.ElizaVeta.qrcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73600380581-thi1pn7rk1hiep1h6icbeq1ejkttfd32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Rw0i-a_g5lqhKZJ3RMa4YKDHUhsT094"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73600380581-thi1pn7rk1hiep1h6icbeq1ejkttfd32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
